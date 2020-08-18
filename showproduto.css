@@ -1,0 +1,45 @@
+                                    .titulo {
+                                    font-family: 'Oswald', sans-serif;
+                                    text-align: center;
+                                }
+                                
+                                .login {
+                                    float: right;
+                                    font-family: 'Oswald', sans-serif;
+                                    color: rgb(0, 68, 128);
+                                    margin-right: 100px;
+                                    font-size: 20px;
+                                }
+                                
+                                footer {
+                                    color: rgb(52, 97, 117);
+                                    font-family: 'Oswald', sans-serif;
+                                    font-size: 25px;
+                                    float: right;
+                                    width: 90%;
+                                    margin-right: 50px;
+                                    height: 200px;
+                                    text-align: right;
+                                    margin-top: 20px;
+                                }
+                                
+                                .table {
+                                    float: center;
+                                    width: 60%;
+                                    color: rgb(73, 137, 165);
+                                    font-family: 'Oswald', sans-serif;
+                                    font-size: 18px;
+                                    margin-top: 50px;
+                                    margin-left: 100px;
+                                    margin-right: 60px;
+                                    height: 200px;
+                                }
+                                
+                                .container {
+                                    font-family: 'Oswald', sans-serif;
+                                    font-size: 20px;
+                                    align-items: center;
+                                    width: 90%;
+                                    margin-right: 50px;
+                                    height: 200px;
+                                    margin-top: 50px;
